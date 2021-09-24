@@ -1,0 +1,199 @@
+msgid ""
+msgstr "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+
+msgctxt "Addons::name::concordpay"
+msgid "Concordpay payment add-on"
+msgstr "ConcordPay - платіжна система"
+
+msgctxt "Addons::description::concordpay"
+msgid "Concordpay payment add-on for CS-Cart"
+msgstr "Оплата Visa, Mastercard, ApplePay, GooglePay"
+
+msgctxt "Languages::concordpay"
+msgid "concordpay"
+msgstr "ConcordPay - платіжна система"
+
+msgctxt "Languages::concordpay.settings.connection"
+msgid "concordpay.settings.connection"
+msgstr "Параметри підключення"
+
+msgctxt "Languages::concordpay.merchantaccount"
+msgid "concordpay.merchantAccount"
+msgstr "Ідентифікатор продавця"
+
+msgctxt "Languages::concordpay.merchantsecretkey"
+msgid "concordpay.merchantSecretKey"
+msgstr "Секретний ключ"
+
+msgctxt "Languages::concordpay.settings.transaction"
+msgid "concordpay.settings.transaction"
+msgstr "Налаштування платежу"
+
+msgctxt "Languages::concordpay.currency"
+msgid "concordpay.currency"
+msgstr "Валюта UAH"
+
+msgctxt "Languages::concordpay.settings.order_statuses"
+msgid "concordpay.settings.order_statuses"
+msgstr "Налаштування статусів замовлення"
+
+
+msgctxt "Languages::concordpay.order_status.created"
+msgid "concordpay.order_status.Created"
+msgstr "Новий платіж"
+
+msgctxt "Languages::ttc_concordpay.order_status.created"
+msgid "ttc_concordpay.order_status.Created"
+msgstr "Замовлення було створено, але клієнт ще не зазначив платіжні реквізити."
+
+msgctxt "Languages::concordpay.order_status.inprocessing"
+msgid "concordpay.order_status.InProcessing"
+msgstr "В обробці"
+
+msgctxt "Languages::ttc_concordpay.order_status.inprocessing"
+msgid "ttc_concordpay.order_status.InProcessing"
+msgstr "Замовлення все ще знаходиться в процесі обробки платіжним шлюзом."
+
+msgctxt "Languages::concordpay.order_status.approved"
+msgid "concordpay.order_status.Approved"
+msgstr "Успішний платіж"
+
+msgctxt "Languages::ttc_concordpay.order_status.approved"
+msgid "ttc_concordpay.order_status.Approved"
+msgstr "Замовлення успішно оплачене клієнтом, кошти списані з картки."
+
+msgctxt "Languages::concordpay.order_status.pending"
+msgid "concordpay.order_status.Pending"
+msgstr "На перевірці Antifraud"
+
+msgctxt "Languages::ttc_concordpay.order_status.pending"
+msgid "ttc_concordpay.order_status.Pending"
+msgstr "Платіж знаходиться на перевірці Anti Fraud"
+
+msgctxt "Languages::concordpay.order_status.expired"
+msgid "concordpay.order_status.Expired"
+msgstr "Закінчився термін оплати"
+
+msgctxt "Languages::ttc_concordpay.order_status.expired"
+msgid "ttc_concordpay.order_status.Expired"
+msgstr "Закінчився термін оплати замовлення (рахунку)."
+
+msgctxt "Languages::concordpay.order_status.refundedvoided"
+msgid "concordpay.order_status.RefundedVoided"
+msgstr "Повернення"
+
+msgctxt "Languages::ttc_concordpay.order_status.refundedvoided"
+msgid "ttc_concordpay.order_status.RefundedVoided"
+msgstr "У разі операції повернення / розблокування грошей."
+
+msgctxt "Languages::concordpay.order_status.declined"
+msgid "concordpay.order_status.Declined"
+msgstr "Відхилено"
+
+msgctxt "Languages::ttc_concordpay.order_status.declined"
+msgid "ttc_concordpay.order_status.Declined"
+msgstr "У разі неможливості провести операцію."
+
+msgctxt "Languages::concordpay.order_status.refundinprocessing"
+msgid "concordpay.order_status.RefundInProcessing"
+msgstr "Повернення в обробці"
+
+msgctxt "Languages::ttc_concordpay.order_status.refundinprocessing"
+msgid "ttc_concordpay.order_status.RefundInProcessing"
+msgstr "У разі якщо недостатньо коштів на балансі магазину для повернення покупцю."
+
+msgctxt "Languages::concordpay.payment.card_payment"
+msgid "concordpay.payment.card_payment"
+msgstr "Оплата карткою на сайті"
+
+msgctxt "Languages::method"
+msgid "concordpay.method"
+msgstr "Метод"
+
+msgctxt "Languages::merchantaccount"
+msgid "concordpay.merchantaccount"
+msgstr "ID продавця"
+
+msgctxt "Languages::orderreference"
+msgid "concordpay.orderreference"
+msgstr "ID замовлення"
+
+msgctxt "Languages::amount"
+msgid "concordpay.amount"
+msgstr "Сума"
+
+msgctxt "Languages::operation"
+msgid "concordpay.operation"
+msgstr "Операція"
+
+msgctxt "Languages::currency"
+msgid "concordpay.currency"
+msgstr "Валюта"
+
+msgctxt "Languages::phone"
+msgid "concordpay.phone"
+msgstr "Тел."
+
+msgctxt "Languages::createddate"
+msgid "concordpay.createddate"
+msgstr "Дата створення"
+
+msgctxt "Languages::cardpan"
+msgid "concordpay.cardpan"
+msgstr "PAN карти"
+
+msgctxt "Languages::cardtype"
+msgid "concordpay.cardtype"
+msgstr "Тип карти"
+
+msgctxt "Languages::fee"
+msgid "concordpay.fee"
+msgstr "Комісія"
+
+msgctxt "Languages::transactionid"
+msgid "concordpay.transactionid"
+msgstr "ID транзакції"
+
+msgctxt "Languages::transactionstatus"
+msgid "concordpay.transactionstatus"
+msgstr "Статус транзакції"
+
+msgctxt "Languages::merchantsignature"
+msgid "concordpay.merchantsignature"
+msgstr "Підпис продавця"
+
+msgctxt "Languages::reason"
+msgid "concordpay.reason"
+msgstr "Причина"
+
+msgctxt "Languages::reasoncode"
+msgid "concordpay.reasoncode"
+msgstr "Код помилки"
+
+msgctxt "Languages::concordpay.payment_approve"
+msgid "concordpay.payment_approve"
+msgstr "Замовлення оплачено"
+
+msgctxt "Languages::concordpay.payment_approve_text"
+msgid "concordpay.payment_approve_text"
+msgstr "Ваше замовлення було успішно оплачено"
+
+msgctxt "Languages::concordpay.payment_decline"
+msgid "concordpay.payment_decline"
+msgstr "Платіж відхилено"
+
+msgctxt "Languages::concordpay.payment_decline_text"
+msgid "concordpay.payment_decline_text"
+msgstr "Помилка: Ваш платіж був відхилений"
+
+msgctxt "Languages::concordpay.payment_cancel"
+msgid "concordpay.payment_cancel"
+msgstr "Платіж скасовано"
+
+msgctxt "Languages::concordpay.payment_cancel_text"
+msgid "concordpay.payment_cancel_text"
+msgstr "Ваш платіж був скасований"
+

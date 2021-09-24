@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>concordpay</id>
+    <version>1.0.2</version>
+    <priority>2000</priority>
+    <position>1</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+    <authors>
+        <author>
+            <name>ConcordPay</name>
+            <url>https://concordpay.concord.ua</url>
+            <phone>@ConcordPaySupport</phone>
+        </author>
+    </authors>
+    <supplier>ConcordPay</supplier>
+    <supplier_link>https://concordpay.concord.ua</supplier_link>
+    <compatibility>
+        <core_version>
+            <min>4.6.1</min>
+        </core_version>
+        <conflicts>ds__concordpay</conflicts>
+        <core_edition>ULTIMATE,MULTIVENDOR</core_edition>
+    </compatibility>
+    <functions>
+        <item for="install">fn_concordpay_install</item>
+        <item for="uninstall">fn_concordpay_uninstall</item>
+    </functions>
+</addon>

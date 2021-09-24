@@ -1,0 +1,202 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::concordpay"
+msgid "Concordpay payment add-on"
+msgstr "ConcordPay - платежная система"
+
+msgctxt "Addons::description::concordpay"
+msgid "Concordpay payment add-on for CS-Cart"
+msgstr "Оплата Visa, Mastercard, ApplePay, GooglePay"
+
+msgctxt "Languages::concordpay"
+msgid "concordpay"
+msgstr "ConcordPay - платежная система"
+
+msgctxt "Languages::concordpay.settings.connection"
+msgid "concordpay.settings.connection"
+msgstr "Параметры подключения"
+
+msgctxt "Languages::concordpay.merchantaccount"
+msgid "concordpay.merchantAccount"
+msgstr "Идентификатор продавца"
+
+msgctxt "Languages::concordpay.merchantsecretkey"
+msgid "concordpay.merchantSecretKey"
+msgstr "Секретный ключ"
+
+msgctxt "Languages::concordpay.operation"
+msgid "concordpay.operation"
+msgstr "Операция"
+
+msgctxt "Languages::concordpay.settings.transaction"
+msgid "concordpay.settings.transaction"
+msgstr "Настройки платежа"
+
+msgctxt "Languages::concordpay.currency"
+msgid "concordpay.currency"
+msgstr "Валюта UAH"
+
+msgctxt "Languages::concordpay.settings.order_statuses"
+msgid "concordpay.settings.order_statuses"
+msgstr "Настройки статусов заказа"
+
+msgctxt "Languages::concordpay.order_status.created"
+msgid "concordpay.order_status.Created"
+msgstr "Новый платеж"
+
+msgctxt "Languages::ttc_concordpay.order_status.created"
+msgid "ttc_concordpay.order_status.Created"
+msgstr "Заказ был создан, но клиент еще не указал платежные реквизиты."
+
+msgctxt "Languages::concordpay.order_status.inprocessing"
+msgid "concordpay.order_status.InProcessing"
+msgstr "В обработке"
+
+msgctxt "Languages::ttc_concordpay.order_status.inprocessing"
+msgid "ttc_concordpay.order_status.InProcessing"
+msgstr "Заказ все еще находится в процессе обработки платежным шлюзом."
+
+msgctxt "Languages::concordpay.order_status.approved"
+msgid "concordpay.order_status.Approved"
+msgstr "Успешный платеж"
+
+msgctxt "Languages::ttc_concordpay.order_status.approved"
+msgid "ttc_concordpay.order_status.Approved"
+msgstr "Заказ успешно оплачен клиентом, средства списаны с карты."
+
+msgctxt "Languages::concordpay.order_status.pending"
+msgid "concordpay.order_status.Pending"
+msgstr "На проверке Antifraud"
+
+msgctxt "Languages::ttc_concordpay.order_status.pending"
+msgid "ttc_concordpay.order_status.Pending"
+msgstr "Платеж находится на проверке Anti Fraud"
+
+msgctxt "Languages::concordpay.order_status.expired"
+msgid "concordpay.order_status.Expired"
+msgstr "Истек срок оплаты"
+
+msgctxt "Languages::ttc_concordpay.order_status.expired"
+msgid "ttc_concordpay.order_status.Expired"
+msgstr "Истек срок оплаты заказа (счета)."
+
+msgctxt "Languages::concordpay.order_status.refundedvoided"
+msgid "concordpay.order_status.RefundedVoided"
+msgstr "Возврат"
+
+msgctxt "Languages::ttc_concordpay.order_status.refundedvoided"
+msgid "ttc_concordpay.order_status.RefundedVoided"
+msgstr "В случае операции возврата / разблокировки денег."
+
+msgctxt "Languages::concordpay.order_status.declined"
+msgid "concordpay.order_status.Declined"
+msgstr "Отклонено"
+
+msgctxt "Languages::ttc_concordpay.order_status.declined"
+msgid "ttc_concordpay.order_status.Declined"
+msgstr "В случае невозможности провести операцию."
+
+msgctxt "Languages::concordpay.order_status.refundinprocessing"
+msgid "concordpay.order_status.RefundInProcessing"
+msgstr "Возврат в обработке"
+
+msgctxt "Languages::ttc_concordpay.order_status.refundinprocessing"
+msgid "ttc_concordpay.order_status.RefundInProcessing"
+msgstr "В случае если недостаточно средств на балансе магазина для возврата покупателю."
+
+msgctxt "Languages::concordpay.payment.card_payment"
+msgid "concordpay.payment.card_payment"
+msgstr "Оплата картой на сайте"
+
+msgctxt "Languages::method"
+msgid "concordpay.method"
+msgstr "Метод"
+
+msgctxt "Languages::merchantaccount"
+msgid "concordpay.merchantaccount"
+msgstr "ID продавца"
+
+msgctxt "Languages::orderreference"
+msgid "concordpay.orderreference"
+msgstr "ID заказа"
+
+msgctxt "Languages::amount"
+msgid "concordpay.amount"
+msgstr "Сумма"
+
+msgctxt "Languages::operation"
+msgid "concordpay.operation"
+msgstr "Операция"
+
+msgctxt "Languages::currency"
+msgid "concordpay.currency"
+msgstr "Валюта"
+
+msgctxt "Languages::phone"
+msgid "concordpay.phone"
+msgstr "Тел."
+
+msgctxt "Languages::createddate"
+msgid "concordpay.createddate"
+msgstr "Дата создания"
+
+msgctxt "Languages::cardpan"
+msgid "concordpay.cardpan"
+msgstr "PAN карты"
+
+msgctxt "Languages::cardtype"
+msgid "concordpay.cardtype"
+msgstr "Тип карты"
+
+msgctxt "Languages::fee"
+msgid "concordpay.fee"
+msgstr "Комиссия"
+
+msgctxt "Languages::transactionid"
+msgid "concordpay.transactionid"
+msgstr "ID транзакции"
+
+msgctxt "Languages::transactionstatus"
+msgid "concordpay.transactionstatus"
+msgstr "Статус транзакции"
+
+msgctxt "Languages::merchantsignature"
+msgid "concordpay.merchantsignature"
+msgstr "Подпись продавца"
+
+msgctxt "Languages::reason"
+msgid "concordpay.reason"
+msgstr "Причина"
+
+msgctxt "Languages::reasoncode"
+msgid "concordpay.reasoncode"
+msgstr "Код ошибки"
+
+msgctxt "Languages::concordpay.payment_approve"
+msgid "concordpay.payment_approve"
+msgstr "Заказ оплачен"
+
+msgctxt "Languages::concordpay.payment_approve_text"
+msgid "concordpay.payment_approve_text"
+msgstr "Ваш заказ был успешно оплачен"
+
+msgctxt "Languages::concordpay.payment_decline"
+msgid "concordpay.payment_decline"
+msgstr "Платёж отклонён"
+
+msgctxt "Languages::concordpay.payment_decline_text"
+msgid "concordpay.payment_decline_text"
+msgstr "Ошибка: Ваш платёж отколонён"
+
+msgctxt "Languages::concordpay.payment_cancel"
+msgid "concordpay.payment_cancel"
+msgstr "Платёж отменён"
+
+msgctxt "Languages::concordpay.payment_cancel_text"
+msgid "concordpay.payment_cancel_text"
+msgstr "Ваш платёж отменён"
+

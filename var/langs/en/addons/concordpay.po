@@ -1,0 +1,199 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::concordpay"
+msgid "Concordpay payment add-on"
+msgstr "ConcordPay Payment Gateway"
+
+msgctxt "Addons::description::concordpay"
+msgid "Concordpay payment add-on for CS-Cart"
+msgstr "Payment Visa, Mastercard, ApplePay, GooglePay"
+
+msgctxt "Languages::concordpay"
+msgid "concordpay"
+msgstr "ConcordPay Payment Gateway"
+
+msgctxt "Languages::concordpay.settings.connection"
+msgid "concordpay.settings.connection"
+msgstr "Connection settings"
+
+msgctxt "Languages::concordpay.merchantaccount"
+msgid "concordpay.merchantAccount"
+msgstr "Merchant ID"
+
+msgctxt "Languages::concordpay.merchantsecretkey"
+msgid "concordpay.merchantSecretKey"
+msgstr "Secret key"
+
+msgctxt "Languages::concordpay.settings.transaction"
+msgid "concordpay.settings.transaction"
+msgstr "Payment settings"
+
+msgctxt "Languages::concordpay.currency"
+msgid "concordpay.currency"
+msgstr "Currency UAH"
+
+msgctxt "Languages::concordpay.settings.order_statuses"
+msgid "concordpay.settings.order_statuses"
+msgstr "Order statuses settings"
+
+
+msgctxt "Languages::concordpay.order_status.created"
+msgid "concordpay.order_status.Created"
+msgstr "New order"
+
+msgctxt "Languages::ttc_concordpay.order_status.created"
+msgid "ttc_concordpay.order_status.Created"
+msgstr "The order has been created, but the customer has not yet provided payment details."
+
+msgctxt "Languages::concordpay.order_status.inprocessing"
+msgid "concordpay.order_status.InProcessing"
+msgstr "In processing"
+
+msgctxt "Languages::ttc_concordpay.order_status.inprocessing"
+msgid "ttc_concordpay.order_status.InProcessing"
+msgstr "The order is still in the process of being processed by the payment gateway."
+
+msgctxt "Languages::concordpay.order_status.approved"
+msgid "concordpay.order_status.Approved"
+msgstr "Successful payment"
+
+msgctxt "Languages::ttc_concordpay.order_status.approved"
+msgid "ttc_concordpay.order_status.Approved"
+msgstr "The order was successfully paid by the client, the funds were debited from the card."
+
+msgctxt "Languages::concordpay.order_status.pending"
+msgid "concordpay.order_status.Pending"
+msgstr "Checked by Antifraud"
+
+msgctxt "Languages::ttc_concordpay.order_status.pending"
+msgid "ttc_concordpay.order_status.Pending"
+msgstr "Payment pending Anti Fraud"
+
+msgctxt "Languages::concordpay.order_status.expired"
+msgid "concordpay.order_status.Expired"
+msgstr "Payment term expired"
+
+msgctxt "Languages::ttc_concordpay.order_status.expired"
+msgid "ttc_concordpay.order_status.Expired"
+msgstr "The due date for payment of the order (invoice) has expired."
+
+msgctxt "Languages::concordpay.order_status.refundedvoided"
+msgid "concordpay.order_status.RefundedVoided"
+msgstr "Refund"
+
+msgctxt "Languages::ttc_concordpay.order_status.refundedvoided"
+msgid "ttc_concordpay.order_status.RefundedVoided"
+msgstr "In the case of a refund / unblocking operation."
+
+msgctxt "Languages::concordpay.order_status.declined"
+msgid "concordpay.order_status.Declined"
+msgstr "Declined"
+
+msgctxt "Languages::ttc_concordpay.order_status.declined"
+msgid "ttc_concordpay.order_status.Declined"
+msgstr "If it is impossible to carry out the operation."
+
+msgctxt "Languages::concordpay.order_status.refundinprocessing"
+msgid "concordpay.order_status.RefundInProcessing"
+msgstr "Refund in processing"
+
+msgctxt "Languages::ttc_concordpay.order_status.refundinprocessing"
+msgid "ttc_concordpay.order_status.RefundInProcessing"
+msgstr "If there are not enough funds on the balance of the store to return to the buyer."
+
+msgctxt "Languages::concordpay.payment.card_payment"
+msgid "concordpay.payment.card_payment"
+msgstr "Payment by card on the site"
+
+msgctxt "Languages::method"
+msgid "concordpay.method"
+msgstr "Method"
+
+msgctxt "Languages::merchantaccount"
+msgid "concordpay.merchantaccount"
+msgstr "Merchant ID"
+
+msgctxt "Languages::orderreference"
+msgid "concordpay.orderreference"
+msgstr "Order ID"
+
+msgctxt "Languages::amount"
+msgid "concordpay.amount"
+msgstr "Amount"
+
+msgctxt "Languages::operation"
+msgid "concordpay.operation"
+msgstr "Operation"
+
+msgctxt "Languages::currency"
+msgid "concordpay.currency"
+msgstr "Currency"
+
+msgctxt "Languages::phone"
+msgid "concordpay.phone"
+msgstr "Phone"
+
+msgctxt "Languages::createddate"
+msgid "concordpay.createddate"
+msgstr "Created date"
+
+msgctxt "Languages::cardpan"
+msgid "concordpay.cardpan"
+msgstr "Card Pan"
+
+msgctxt "Languages::cardtype"
+msgid "concordpay.cardtype"
+msgstr "Card Type"
+
+msgctxt "Languages::fee"
+msgid "concordpay.fee"
+msgstr "Fee"
+
+msgctxt "Languages::transactionid"
+msgid "concordpay.transactionid"
+msgstr "Transaction ID"
+
+msgctxt "Languages::transactionstatus"
+msgid "concordpay.transactionstatus"
+msgstr "Transaction status"
+
+msgctxt "Languages::merchantsignature"
+msgid "concordpay.merchantsignature"
+msgstr "Merchant signature"
+
+msgctxt "Languages::reason"
+msgid "concordpay.reason"
+msgstr "Reason"
+
+msgctxt "Languages::reasoncode"
+msgid "concordpay.reasoncode"
+msgstr "Reason code"
+
+msgctxt "Languages::concordpay.payment_approve"
+msgid "concordpay.payment_approve"
+msgstr "Order has been paid"
+
+msgctxt "Languages::concordpay.payment_approve_text"
+msgid "concordpay.payment_approve_text"
+msgstr "Your order has been successfully paid"
+
+msgctxt "Languages::concordpay.payment_decline"
+msgid "concordpay.payment_decline"
+msgstr "Payment declined"
+
+msgctxt "Languages::concordpay.payment_decline_text"
+msgid "concordpay.payment_decline_text"
+msgstr "Error: Your payment was declined"
+
+msgctxt "Languages::concordpay.payment_cancel"
+msgid "concordpay.payment_cancel"
+msgstr "Payment canceled"
+
+msgctxt "Languages::concordpay.payment_cancel_text"
+msgid "concordpay.payment_cancel_text"
+msgstr "Your payment was canceled"
+
